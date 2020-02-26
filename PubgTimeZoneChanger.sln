@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubgTimeZoneChanger", "PubgTimeZoneChanger\PubgTimeZoneChanger.csproj", "{72A134E5-A16E-4C23-810E-FD860BC25EBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A134E5-A16E-4C23-810E-FD860BC25EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A134E5-A16E-4C23-810E-FD860BC25EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A134E5-A16E-4C23-810E-FD860BC25EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A134E5-A16E-4C23-810E-FD860BC25EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
